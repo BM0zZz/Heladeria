@@ -27,13 +27,13 @@ export const About = () => {
             </p>
 
             <p className="font-montserrat text-lg text-muted-foreground leading-relaxed">
-              Ubicados en el corazón de Las Rozas, ofrecemos una experiencia única 
+              Ubicados Las Rozas Village, ofrecemos una experiencia única 
               donde la gastronomía se encuentra con el lujo y la sofisticación.
             </p>
 
             <div className="flex items-center gap-2 text-gold font-montserrat">
               <MapPin className="w-5 h-5" />
-              <span className="text-lg">Las Rozas, Madrid</span>
+              <span className="text-lg">Las Rozas Village, Madrid</span>
             </div>
           </motion.div>
 
