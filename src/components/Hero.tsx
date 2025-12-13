@@ -55,7 +55,7 @@ export const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.8 }}
           >
-            Helados Premium Inspirados en las Fragancias más Exclusivas del Mundo
+            Helados Premium Inspirados en las Marcas más Exclusivas del Mundo
           </motion.p>
 
           <motion.div

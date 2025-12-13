@@ -59,7 +59,7 @@ export const Contact = () => {
                 Ubicación
               </h3>
               <p className="font-montserrat text-muted-foreground">
-                Las Rozas<br />
+                Las Rozas Village<br />
                 Madrid, España
               </p>
             </motion.div>
